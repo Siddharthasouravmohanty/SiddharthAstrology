@@ -1,23 +1,21 @@
 ﻿# SiddharthAstrology
 A good **README.md** is the first impression of your project on GitHub. For your **Astrology Prediction App (Python)** project, the README should include:
 
----
+ ✅ **Recommended README Structure**
 
-## ✅ **Recommended README Structure**
-
-1. **Project Title & Short Description**
-2. **Features**
-3. **Tech Stack**
-4. **Installation Steps**
-5. **Usage Instructions**
-6. **Screenshots (Optional)**
-7. **Future Enhancements**
-8. **License**
-9. **Author**
+1. Project Title & Short Description**
+2. Features
+3. Tech Stack
+4. Installation Steps
+5. Usage Instructions
+6. Screenshots (Optional)
+7. Future Enhancements
+8. License
+9. Author
 
 ---
 
-### ✅ **Sample README.md for Your Project**
+ ✅ **Sample README.md for Your Project**
 
 Here’s a professional template for your **SiddharthAstrology** project:
 
@@ -27,7 +25,7 @@ An astrology prediction web application built with **Python** and **Streamlit** 
 
 ---
 
-## ✨ Features
+✨ Features
 - ✅ Beautiful & modern UI with Streamlit
 - ✅ Predict future insights based on astrology logic
 - ✅ Real-time user input and instant results
@@ -35,22 +33,21 @@ An astrology prediction web application built with **Python** and **Streamlit** 
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 - **Python 3.x**
 - **Streamlit** for UI
 - **Pandas** (if used)
 - **Matplotlib** (if used)
 
 ---
-
-## ⚡ Installation & Setup
+ ⚡ Installation & Setup
 Follow these steps to run the project locally:
 
 ```bash
-# Clone the repository
+ Clone the repository
 git clone https://github.com/Siddharthasouravmohanty/SiddharthAstrology.git
 
-# Navigate to project folder
+ Navigate to project folder
 cd SiddharthAstrology
 
 # Install dependencies
